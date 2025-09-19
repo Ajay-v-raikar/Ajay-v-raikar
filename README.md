@@ -4,6 +4,9 @@
 🚀 Building cross-platform mobile apps with **React Native, TypeScript, Angular and Expo**  
 💡 Passionate about creating seamless user experiences and scalable solutions  
 
+🔹 Currently: Sr. Software Engineer @ TekSystems (Ecolab Client)
+🔹 Previously: Melorra (Jewellery App), Apexon (Healthcare App)
+
 ---
 
 ### 👨‍💻 About Me  
